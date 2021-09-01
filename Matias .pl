@@ -1,1 +1,0 @@
-weather(islambad, summer,hot)
